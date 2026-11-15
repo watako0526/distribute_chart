@@ -7,17 +7,6 @@
 
 YouTube:https://www.youtube.com/@watako_noachi_d35plc
 
-# distribute_chart
-distribute chart
-
-# Chart Download
-
-This repository contains chart files created by **watako**.
-
-This repository is operated in accordance with the **K-Shoot MANIA Terms of Use**.
-
-Before downloading and using any chart files from this repository, please read and follow the following guidelines:
-
 ### No music files are distributed
 
 This repository does **not** distribute any copyrighted music or music files.
